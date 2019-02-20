@@ -21,14 +21,14 @@
         app:layout_constraintStart_toStartOf="parent">
 
         <Button
-            android:id="@+id/save"
+            android:id="@+id/Buttonsave"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"
             android:text="@string/bookDetailSave" />
 
         <Button
-            android:id="@+id/return"
+            android:id="@+id/Buttonreturn"
             android:layout_width="wrap_content"
             android:layout_height="wrap_content"
             android:layout_weight="1"

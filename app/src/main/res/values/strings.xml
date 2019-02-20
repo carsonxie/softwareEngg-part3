@@ -25,4 +25,12 @@
     <string name="plaintext2">default</string>
     <string name="plaintext3">default</string>
     <string name="plaintext4">default</string>
+    <string name="PeopleResult">Search Result On People</string>
+    <string name="personName1">Personname</string>
+    <string name="personName2">Person Name</string>
+    <string name="personName3">Person Name</string>
+    <string name="peopleResultNewSearch">New Search</string>
+    <string name="peopleResultBack">Back</string>
+    <string name="bookResultNewSearch">New Search</string>
+    <string name="boolResultBack">Back to home</string>
 </resources>
