@@ -33,4 +33,8 @@
     <string name="peopleResultBack">Back</string>
     <string name="bookResultNewSearch">New Search</string>
     <string name="boolResultBack">Back to home</string>
+    <string name="bookResult">Search Result For Book</string>
+    <string name="bookName1">book Name1</string>
+    <string name="bookName2">book Name2</string>
+    <string name="bookName3">Book Name3</string>
 </resources>
