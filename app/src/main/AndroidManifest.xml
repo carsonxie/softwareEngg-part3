@@ -13,7 +13,8 @@
         android:roundIcon="@mipmap/ic_launcher_round"
         android:supportsRtl="true"
         android:theme="@style/AppTheme">
-        <activity android:name=".EditBookDetail"></activity>
+        <activity android:name=".location"></activity>
+        <activity android:name=".EditBookDetail" />
         <activity android:name=".SearchResultForBook" />
         <activity android:name=".SearchResultForPeople" />
         <activity
